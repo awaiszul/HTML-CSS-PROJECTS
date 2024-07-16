@@ -1,2 +1,2 @@
-# HTML-CSS-PROJECTS
-All my projects in html css will be shown in this repository
+# HTML-CSS-JavaScript_PROJECTS
+All my projects in html css and js will be shown in this repository
